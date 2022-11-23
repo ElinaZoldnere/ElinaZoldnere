@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
 
-I’m an electrical engineer now interested in coding, development, and IT. I'm looking forward to back-end development and have an additional interest in blockchains and Web3 technologies. Anyway, I feel like I need some solid basics before.
+I’m an electrical engineer now interested in coding, development, and IT. I'm looking forward to back-end development and have an additional interest in blockchains and Web3 technologies. Anyway, I feel I need some solid basics first.
 
 So currently I am learning:
   - *'CS50's Introduction to Computer Science'* by HarvardX (C language)
