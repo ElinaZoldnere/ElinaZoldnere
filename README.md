@@ -9,7 +9,7 @@ Currently I am learning:
   - *'CS50's Introduction to Computer Science'* by HarvardX (C language)
   - *'Learn Git & GitHub'* by Codecademy
   
- Also, I have enrolled in the Riga TechGirls Mentorship program 2023 in back-end development and am looking forward to productive cooperation with my Mentor.
+ Also, I have enrolled in the Riga TechGirls *'Mentorship program 2023'* in back-end development and am looking forward to productive cooperation with my Mentor.
   
  Since July 2022 I have accomplished:
   - *'Introduction to Programming (2 weeks)'* by Codelex (Typescript)
