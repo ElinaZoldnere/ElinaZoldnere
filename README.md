@@ -8,7 +8,7 @@ I’m an electrical engineer now interested in coding, development, and IT. I'm 
 Currently, I am taking:
   - *'CS50's Introduction to Computer Science'* by HarvardX (C language)
   - *'Learn Git & GitHub'* by Codecademy
-  - *'Mentorship program 2023'* in back-end development
+  - *'Mentorship program 2023'* in back-end development by Riga TechGirls
   
  Since July 2022 I have accomplished:
   - *'Discover Tech'* by Riga TechGirls
