@@ -18,6 +18,6 @@ Currently, I am taking:
   - *'Learn the Command Line'* by Codecademy
   - *'Introduction to Blockchain and Crypto'* by Codecademy
   
- Here in GitHub I have deployed my practical projects and homework. Still, due to principles of academic honesty, most of them I can not make available publicly (like problem sets from HarvardX or exercises from Codelex).
+ Here in GitHub I have deployed my practical projects and homework. Still, due to principles of academic honesty, most of them I can not make available publicly, but they are available upon request.
   
  You are welcome to reach me via LinkedIn or elina.zoldnere@gmail.com
