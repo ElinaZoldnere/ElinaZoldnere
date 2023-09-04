@@ -9,6 +9,7 @@ At the moment I am working torwards a solid foundation of knowledge, taking 'Int
 
 Currently, I am taking:
   - *'CS50's Introduction to Computer Science'* by HarvardX (C, Python)
+  - *'100 Days of Python Challenge'* by SheCanDoIT
   - *'Learn Git & GitHub'* by Codecademy
   
  Since July 2022 I have accomplished:
