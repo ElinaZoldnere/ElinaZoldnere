@@ -18,5 +18,6 @@ Currently, I am taking:
   - *'Introduction to Programming (2 weeks)'* by Codelex (Typescript)
   - *'Learn the Command Line'* by Codecademy
   - *'Introduction to Blockchain and Crypto'* by Codecademy
+  - *'Jira Software Fundamentals'* by Atlassian
   
  You are welcome to reach me via LinkedIn or elina.zoldnere@gmail.com
